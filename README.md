@@ -1,0 +1,1 @@
+This is my first attempt to make a desktop application using .NET MAUI 

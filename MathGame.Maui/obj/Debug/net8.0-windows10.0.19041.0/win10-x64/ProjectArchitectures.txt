@@ -1,0 +1,1 @@
+C:\Users\user\Math_Game_APP\MathGame.Maui\MathGame.Maui.csproj;x64
